@@ -2,7 +2,7 @@
   "name": "vBUSdevkit",
   "author": "Geertje123",
   "description": "A dev kit that helps with creating userscripts for vBulletin forum software",
-  "version": "1.000",
+  "version": "1.001",
   "homepage": "https://github.com/Geertje123/vBUSdevkit",
   "repository": "https://github.com/Geertje123/vBUSdevkit"
 }
