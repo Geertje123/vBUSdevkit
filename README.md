@@ -6,15 +6,15 @@ I created this for the website http://unknowncheats.me/ to give better support f
 
 
 ## Table of contents
-1. Methods
-  1. Sections
-    1. getAllSections()
-    2. getAllSectionTitles()
-    3. getSectionByIndex(index)
-    4. getSectionByTitle(title)
-  2. Forums
-  3. Threads
-  4. Posts
+* Methods
+  * Sections
+    * getAllSections()
+    * getAllSectionTitles()
+    * getSectionByIndex(index)
+    * getSectionByTitle(title)
+  * Forums
+  * Threads
+  * Posts
 
 
 ## 1. Methods
