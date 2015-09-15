@@ -13,7 +13,33 @@ I created this for the website http://unknowncheats.me/ to give better support f
     * getSectionByIndex(index)
     * getSectionByTitle(title)
   * Forums
+    * getAllForums()
+    * getAllForumTitles()
+    * getAllForumsWithNewPost()
+    * getAllForumsWithoutNewPost()
+    * getAllForumsFromSectionIndex(index)
+    * getAllForumsFromSectionTitle(title)
+    * getForumByIndex(index)
+    * getForumByTitle(title)
   * Threads
+    * getAllThreads()
+    * getAllNonStickyThreads()
+    * getAllStickyThreads()
+    * getAllThreadsWithNewPost()
+    * getAllThreadsWithoutNewPost()
+    * getAllHotThreads()
+    * getAllLockedThreads()
+    * getAllThreadsYouPostedIn()
+    * getThreadByIndex(index)
+    * getThreadByTitle(title)
+    * getThreadTitle(thread)
+    * getThreadAuthor(thread)
+    * getThreadUrl(thread)
+    * getThreadLastPostUrl(thread)
+    * getThreadLastPostAuthor(thread)
+    * getThreadPageAmount(thread)
+    * getThreadReplyAmount(thread)
+    * getThreadViewAmount(thread)
   * Posts
 
 
