@@ -17,10 +17,10 @@ I created this for the website http://unknowncheats.me/ to give better support f
   4. Posts
 
 
-## Methods
+## 1. Methods
 Contains a list of all methods. Note: indexes start at 0. For example; if you want the _first_ thread in a forum, you use `getThreadByIndex(0)`.
 
-### Sections
+### 1.1 Sections
 These functions should only be used on the main page where there is a view of all sections with its forums.
 
 #### getAllSections()
@@ -48,7 +48,7 @@ Gets the section with the given title. Returns the DOM object of the section.
 * returns: Object
 
 
-### Forums
+### 1.2 Forums
 These methods should only be used on the main page where there is a view of all sections with its forums.
 
 #### getAllForums()
@@ -100,7 +100,7 @@ Gets the forum with the given title and returns it as a DOM object.
 * returns: Object
 
 
-### Threads
+### 1.3 Threads
 These methods should only be used within a forum where there is a list of threads in it.
 
 #### getAllThreads()
@@ -212,7 +212,7 @@ Gets the amount of views of the given thread. Takes the thread parameter as a DO
 * returns: Number
 
 
-### Posts
+### 1.4 Posts
 Soon to be
 
 
